@@ -6,4 +6,4 @@
 胜负：先把五枚己色相连成任何横纵斜方向的一方胜出
 
 # 截图
-![image](https://github.com/Carol1992/FIR/images/snapshot.jpg)
+![image](https://github.com/Carol1992/FIR/blob/master/images/snapshot.PNG)
